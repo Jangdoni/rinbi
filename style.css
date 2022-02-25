@@ -1,0 +1,35 @@
+#merah {
+  color: red;
+}
+#jingga {
+  color: orange;
+}
+#kuning {
+  color: yellow;
+}
+#hijau {
+  color: green;
+}
+#biru {
+  color: rgb(93, 196, 255);
+}
+#indigo {
+  color: blue;
+}
+#ungu {
+  color: violet;
+}
+#atas {
+  background-color: rgb(241, 238, 238);
+}
+body {
+  color: rgb(255, 0, 0);
+}
+.banner {
+  background-image: url(background.jpg);
+  no-repeat center center
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: rgb(255, 255, 255);
+}
